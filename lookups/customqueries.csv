@@ -1,0 +1,3 @@
+Category,Title,Description,Query,Author,Modified,Published
+"WinEventLog:Security",test,"temp test","| stats count",matlock,"2019-08-22","2019-08-22"
+Cron,test,"cron_test","| makeresults",bmatlock,"2019-08-22","2019-08-22"
